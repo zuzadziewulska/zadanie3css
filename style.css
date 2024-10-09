@@ -1,0 +1,32 @@
+div {
+    height: 150px;
+    width: 150px;
+    margin:auto;
+    margin-bottom: 15px;
+    transition: all 2s ease-in;
+}
+
+.czerwony{
+    background-color: #f00;
+}
+
+.czerwony:hover{
+    width: 300px;
+}
+
+.niebieski{
+    background-color: #00f;
+}
+
+.niebieski:hover{
+    height: 300px;
+}
+
+.zielony{
+    background-color: #0f0;
+}
+
+.zielony:hover{
+    height: 300px;
+    width: 300px;
+}
